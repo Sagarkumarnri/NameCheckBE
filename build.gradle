@@ -31,7 +31,7 @@ dependencies {
 
     // OkHttp for HTTP Requests (OpenAI API)
     implementation 'com.squareup.okhttp3:okhttp:4.9.3'
-
+    
     // Lombok (for reducing boilerplate code)
     implementation 'org.projectlombok:lombok:1.18.26'
     annotationProcessor 'org.projectlombok:lombok:1.18.26'
